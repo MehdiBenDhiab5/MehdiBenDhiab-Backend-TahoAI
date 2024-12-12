@@ -1,5 +1,7 @@
 # MehdiBenDhiab-Backend-TahoAI
 
-# Instructions
+# Instructions:
+
 npm i
+
 npm run start:dev
